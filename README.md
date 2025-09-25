@@ -3,7 +3,22 @@ Activity for determining and controlling attitude of satellite using Arduino
 
 This activity makes use of an Arduino Mega as a microcontroller in order to determine attitude and control the angular motion of an actuator. The idea is to provide students with a physical hardware where they can test their attitude determination and control algorithm and realize that what works in simulation may not work when implemented on actual hardware. 
 
+![Hardware printed and installed](sat_control_rig.jpg "Satcontrol rig with 3D printed hardware and electronics")
+
+## Summary
+
 This activity allows students to create their own attitude determination and control algorithms on MATLAB and Simulink and then testing it out on Arduino based physical hardware to determine if their algorithms work in the real world. 
+
+## Materials and Software
+
+1. 3D printing filament (PLA was used for this project). Designs are supplied in this github repo. 
+2. Stepper motor (28BYJ-48, 5V DC motor)
+3. Motor Driver board (ULN2003 Driver Board)
+4. Arduino Mega
+5. USB Type-B wire for power and data tranfer to the Arduino
+6. Breadboard
+7. Jumper wires
+8. A PC (of course!)
 
 Students need to be senior undergrads or graduate students to involve in this activity. An introduction of this activity can be given in a classroom, but students are supposed to work on it themselves and test out their code with the hardware. Two weeks should be given for students to work on this, given the fact that they have the basics of attitude determination, Kalman filtering and controls. The student needs to have intermediate level understanding of MATLAB and Simulink, with some experience with prior coding in the language. Generally, students who are involved in this activity are offered to do this as a group assignment in the course where they are given a quick demo of how the setup works, after which they can think about designing their own code. It can be adapted into other settings with proper planning and ideas if the vision of the activity is clear enough. 
 
