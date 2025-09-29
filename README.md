@@ -21,6 +21,8 @@ This activity allows students to create their own attitude determination and con
 8. A PC (of course!) with MATLAB installed
 
 
+![CAD rendition of the assembly of components (without RPi)](cad_rendition.png "CAD rendition of the assembly of components (without RPi)")
+
 ## Background
 This activity makes use of an Arduino Mega as a microcontroller in order to determine attitude and control the angular motion of an actuator. Students get to understand how attitude determination actually works, how filtering works in context of electronics and how hardware control execution is done. The idea is to provide students with a physical hardware where they can test their attitude determination and control algorithm and realize that what works in simulation may not work when implemented on actual hardware. MATLAB and Simulink is used for the coding of the program which is them uploaded to Arduino. Students need to think about how Simulink blocks come together and work with MATLAB for execution to take place. They need to understand the interface between the hardware and software and how data acquisiton and control takes place. It uses critical thinking and model development techniques.  This can further be used by students to give a quick 5 minute overview of what they achieved as a result of working on this activity. 
 
