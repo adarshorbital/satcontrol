@@ -34,7 +34,15 @@ This activity makes use of an Arduino Mega as a microcontroller in order to dete
     Essentially, you would need to connect the IN1 through 4 to Arduino's ports 2 through 5 respectively. Connect the motor driver wires to the motor itself (it is a push connect fitting). 
 
 4. Connect the electronics first and make sure they work. 
-5. Once the electronics work with the software, download the CAD files (access folder "CAD Designs") and 3D print the models  and complete the assembly as shown in the image. 
-6. You will need some hardware (nuts, bolts and washers) to make the setup functional. 
+5. Once the electronics work with the software, download the CAD files (access folder "CAD Designs") and 3D print the models and complete the assembly as shown in the image. 
+6. You will need some hardware (nuts, bolts and washers) to make the setup functional.
+
+
+## How to use the CAD files for 3D printing
+
+1. Access the CAD files in the folder "CAD Designs". The files are either .SLDPRT (SolidWorks Part file) or .SLDASM (SolidWorks Assembly File).
+2. Open the .SLDPRT files in SolidWorks (or any other design software that you have access to). You may use OnShape, which is an online CAD software, which is freely available to educators. We primarily want to print the following files using the 3D printer: motor_head_satcontrol, gear_for_IMU_satcontrol, design_base_mount_satcontrol, Main Board_satcontrol
+3. Convert these .SLDPRT files to .STL files. Each software has specific methods to perform this conversion.
+4. Slice the files in the 3D printer software of your choice. For our purposes, we used the Bambu P1S 3D printers, and used the Bambu Studio to process these files and then print them out using PLA. 
 
 This activity was first formally presented in an attitude control course at Purdue University, School of Aeronautics and Astronautics, taught by Dr. Carolin Frueh ([Profile](https://engineering.purdue.edu/AAE/people/ptProfile?resource_id=111420)). The equipment and electronics for this activity was offered by the school as a part of a pilot project. 
