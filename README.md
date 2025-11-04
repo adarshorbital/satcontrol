@@ -11,15 +11,21 @@ This activity allows students to create their own attitude determination and con
 
 ## Materials and Software
 
-1. 3D printing filament (PLA was used for this project). Designs are supplied in this github repo. 
-2. Stepper motor (28BYJ-48, 5V DC motor)
-3. Motor Driver board (ULN2003 Driver Board)
-4. Arduino Mega
-5. USB Type-B wire for power and data tranfer to the Arduino
-6. Breadboard
-7. Jumper wires
-8. A PC (of course!) with MATLAB installed
+| # | Item | Description |
+|---|------|-------------|
+| 1 | 3D printing filament (PLA) | PLA filament used for 3D printing the provided parts. |
+| 2 | Stepper motor (28BYJ-48, 5 V DC) | The geared stepper motor used in the project. |
+| 3 | Motor driver board (ULN2003 Driver Board) | Driver board to interface the stepper motor with the Arduino. |
+| 4 | Arduino Mega | Microcontroller board (e.g., Arduino Mega 2560) used in the setup. |
+| 5 | USB Type-B cable for power & data to the Arduino | USB-A to USB-B cable for connecting the Arduino to the PC. |
+| 6 | Breadboard | Standard breadboard for wiring and prototyping. |
+| 7 | Jumper wires | Set of jumper wires (male-to-male, male-to-female etc.) for wiring. |
+| 8 | PC with MATLAB installed | The computer used for development, simulation & code upload. |
 
+Note that Amazon has an Arduino Starter kit, which has all of these components available (except the 3D printing filament). 
+You can buy the kit here: [Arduino Kit](https://www.amazon.com/EL-KIT-008-Project-Complete-Ultimate-TUTORIAL/dp/B01EWNUUUA/ref=sr_1_4?dib=eyJ2IjoiMSJ9.JJmxgpCYMyksTjJSYupUBJ-896RzaR0Wi-lAKyH9PP50o4JG4NHZhXpgoSvzXom3JECsesaxWP40Ae-EQYHR8cFI8Ib-53ThKa3MoaEoth8ux5vTChsv4bfCrCtPvJ1GXoe9N0tzXXJ_R8a5KpaF6F_U9HV09JRJXYuqsYQyzrcB6LCq6VXVs74Y3r19r0XFVf-AQAhhS3Ew0_GIWqyEVCkjgeJWCcMwT3q17MxjFXQ.r2Xt9_UZupCLCBm0C0mkMHcJmZVzCahtF-PipxsIBXk&dib_tag=se&keywords=arduino+starter+kit&qid=1762275427&sr=8-4)
+
+Your 3D printing filament will depend on the color of the filament you wish to you use and the diameter of the filament that your 3D printer accepts. 
 
 ![CAD rendition of the assembly of components (without RPi)](cad_rendition.png "CAD rendition of the assembly of components (without RPi)")
 
@@ -46,3 +52,10 @@ This activity makes use of an Arduino Mega as a microcontroller in order to dete
 4. Slice the files in the 3D printer software of your choice. For our purposes, we used the Bambu P1S 3D printers, and used the Bambu Studio to process these files and then print them out using PLA. 
 
 This activity was first formally presented in an attitude control course at Purdue University, School of Aeronautics and Astronautics, taught by Dr. Carolin Frueh ([Profile](https://engineering.purdue.edu/AAE/people/ptProfile?resource_id=111420)). The equipment and electronics for this activity was offered by the school as a part of a pilot project. 
+
+# References
+
+This activity was presented in 2025 Educator Workshop:
+Teaching Computation with MATLAB (and GenAI). 
+
+Link to the project in the workshop: [Project Link](https://serc.carleton.edu/teaching_computation/workshop_2025/activities/309353.html)
