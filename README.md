@@ -1,7 +1,6 @@
 # SatControl
 
-![Build Status](https://img.shields.io/github/actions/workflow/status/adarshorbital/satcontrol/tests.yml?branch=main)
-![GitHub Stars](https://img.shields.io/github/stars/adarshorbital/satcontrol?style=social)
+
 ![Last Commit](https://img.shields.io/github/last-commit/adarshorbital/satcontrol)
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
 
