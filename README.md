@@ -22,7 +22,9 @@ Following is the list of components required to execute this activity:
 7. Jumper wires
 8. A PC (of course!) with MATLAB installed
 
-Except for the printing filament, all components for this activity (and more) is sold as an "Arduino Kit" on Amazon, sold by Elegoo: [ELEGOO Mega R3 Project Starter Kit](https://www.amazon.com/EL-KIT-008-Project-Complete-Ultimate-TUTORIAL/dp/B01EWNUUUA/ref=sr_1_4?dib=eyJ2IjoiMSJ9.JJmxgpCYMyksTjJSYupUBJ-896RzaR0Wi-lAKyH9PP50o4JG4NHZhXpgoSvzXom3JECsesaxWP40Ae-EQYHR8cFI8Ib-53ThKa3MoaEoth8ux5vTChsv4bfCrCtPvJ1GXoe9N0tzXXJ_R8a5KpaF6F_U9HV09JRJXYuqsYQyzrcB6LCq6VXVs74Y3r19r0XFVf-AQAhhS3Ew0_GIWqyEVCkjgeJWCcMwT3q17MxjFXQ.r2Xt9_UZupCLCBm0C0mkMHcJmZVzCahtF-PipxsIBXk&dib_tag=se&keywords=arduino+starter+kit&qid=1762275427&sr=8-4) 
+Except for the printing filament, all components for this activity (and more) is sold as an "Arduino Kit" on Amazon, sold by Elegoo: <a href="https://www.amazon.com/EL-KIT-008-Project-Complete-Ultimate-TUTORIAL/dp/B01EWNUUUA/ref=sr_1_4?dib=eyJ2IjoiMSJ9.JJmxgpCYMyksTjJSYupUBJ-896RzaR0Wi-lAKyH9PP50o4JG4NHZhXpgoSvzXom3JECsesaxWP40Ae-EQYHR8cFI8Ib-53ThKa3MoaEoth8ux5vTChsv4bfCrCtPvJ1GXoe9N0tzXXJ_R8a5KpaF6F_U9HV09JRJXYuqsYQyzrcB6LCq6VXVs74Y3r19r0XFVf-AQAhhS3Ew0_GIWqyEVCkjgeJWCcMwT3q17MxjFXQ.r2Xt9_UZupCLCBm0C0mkMHcJmZVzCahtF-PipxsIBXk&dib_tag=se&keywords=arduino+starter+kit&qid=1762275427&sr=8-4" target="_blank" rel="noopener noreferrer">
+  ELEGOO Mega R3 Project Starter Kit
+</a>
 
 Any PLA filament can be bought for printing the designs for this project. Make sure the diameter of the filament is compatible with your printer.
 
