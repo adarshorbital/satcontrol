@@ -11,6 +11,8 @@ This activity allows students to create their own attitude determination and con
 
 ## Materials and Software
 
+Following is the list of components required to execute this activity:
+
 | # | Item | Description |
 |---|------|-------------|
 | 1 | 3D printing filament (PLA) | PLA filament used for 3D printing the provided parts. |
@@ -23,7 +25,7 @@ This activity allows students to create their own attitude determination and con
 | 8 | PC with MATLAB installed | The computer used for development, simulation & code upload. |
 
 Note that Amazon has an Arduino Starter kit, which has all of these components available (except the 3D printing filament). 
-You can buy the kit here: [Arduino Kit](https://www.amazon.com/EL-KIT-008-Project-Complete-Ultimate-TUTORIAL/dp/B01EWNUUUA/ref=sr_1_4?dib=eyJ2IjoiMSJ9.JJmxgpCYMyksTjJSYupUBJ-896RzaR0Wi-lAKyH9PP50o4JG4NHZhXpgoSvzXom3JECsesaxWP40Ae-EQYHR8cFI8Ib-53ThKa3MoaEoth8ux5vTChsv4bfCrCtPvJ1GXoe9N0tzXXJ_R8a5KpaF6F_U9HV09JRJXYuqsYQyzrcB6LCq6VXVs74Y3r19r0XFVf-AQAhhS3Ew0_GIWqyEVCkjgeJWCcMwT3q17MxjFXQ.r2Xt9_UZupCLCBm0C0mkMHcJmZVzCahtF-PipxsIBXk&dib_tag=se&keywords=arduino+starter+kit&qid=1762275427&sr=8-4)
+You can buy the kit here: [ELEGOO Mega R3 Project Starter Kit](https://www.amazon.com/EL-KIT-008-Project-Complete-Ultimate-TUTORIAL/dp/B01EWNUUUA/ref=sr_1_4?dib=eyJ2IjoiMSJ9.JJmxgpCYMyksTjJSYupUBJ-896RzaR0Wi-lAKyH9PP50o4JG4NHZhXpgoSvzXom3JECsesaxWP40Ae-EQYHR8cFI8Ib-53ThKa3MoaEoth8ux5vTChsv4bfCrCtPvJ1GXoe9N0tzXXJ_R8a5KpaF6F_U9HV09JRJXYuqsYQyzrcB6LCq6VXVs74Y3r19r0XFVf-AQAhhS3Ew0_GIWqyEVCkjgeJWCcMwT3q17MxjFXQ.r2Xt9_UZupCLCBm0C0mkMHcJmZVzCahtF-PipxsIBXk&dib_tag=se&keywords=arduino+starter+kit&qid=1762275427&sr=8-4)
 
 Your 3D printing filament will depend on the color of the filament you wish to you use and the diameter of the filament that your 3D printer accepts. 
 
